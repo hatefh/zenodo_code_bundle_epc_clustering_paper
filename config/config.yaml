@@ -1,0 +1,43 @@
+# All paths are relative to the bundle root
+
+data_dir: "data/processed"
+
+inputs:
+  # standardized features CSV you already provide in data/processed/
+  features_csv: "features_epc_only_standardized.csv"
+
+outputs:
+  # Step 00 copies features_csv into this parquet for the pipeline
+  features: "outputs/features.parquet"
+
+  # EPC cluster label files (written by Step 01)
+  clusters_kmedoids: "outputs/clusters_kmedoids.csv"
+  clusters_agglomerative: "outputs/clusters_agglomerative.csv"
+  clusters_gmm: "outputs/clusters_gmm.csv"
+
+  # metrics files
+  validation_metrics: "outputs/validation_metrics.csv"
+  agreement_metrics: "outputs/agreement_metrics.csv"
+
+# deterministic seed
+random_seed: 42
+
+# metadata
+timezone: "Europe/Helsinki"
+feature_space: "EPC"
+
+# scaling info (already applied in features_epc_only_standardized.csv)
+scaling: "standard"
+
+clustering:
+  k: 4
+  seeds:
+    kmedoids: 42
+    gmm: 0
+  gmm:
+    covariance_type: "full"
+    init_params: "kmeans"
+    n_init: 1
+    max_iter: 100
+    tol: 1e-3
+    reg_covar: 1e-6

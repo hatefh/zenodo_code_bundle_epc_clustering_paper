@@ -1,0 +1,29 @@
+building_id,net_heated-area_m2,ep-value,heat_recovery,weighted_u_value,dh_kwh_m2,q50_m3h
+1,3893.3,61,Mechanical supply and exhaust ventilation system with heat recovery,36.07125333597869,30.873808851103174,1.2
+2,5100.0,204,Mechanical supply and exhaust / Heat Recovery,30.944466151749207,167.61450980392158,4.6
+3,4562.0,278,Mechanical supply and exhaust ventilation,128.00194355971894,256.3200350723367,6.0
+4,3925.0,202,Mechanical supply and exhaust ventilation with heat recovery,120.64646358974356,191.3100636942675,13.7
+5,6120.0,189,Mechanical supply and exhaust ventilation system with heat recovery,72.95224329654651,263.10996732026143,20.5
+6,3544.0,329,Mechanical supply and exhaust ventilation,65.93807888591117,355.642776523702,6.0
+7,6018.0,154,Mechanical supply and exhaust ventilation system with heat recovery,320.1820296773767,220.14007976071784,13.7
+8,8598.0,328,Mechanical supply and exhaust ventilation,391.318060048226,334.8561293324029,8.6
+9,4792.9,276,Mechanical supply and exhaust ventilation without heat recovery,22.38516072386713,255.9523461787227,10.6
+10,2034.0,441,Mechanical supply and exhaust ventilation,104.14512182097582,496.55555555555554,6.0
+11,5820.0,236,Mechanical supply and exhaust ventilation with heat recovery,58.10624938827445,233.71993127147766,9.79
+12,4163.0,287,Mechanical supply and exhaust ventilation with heat recovery,157.21864355590571,286.731924093202,6.0
+13,5749.0,285,Mechanical supply and exhaust ventilation with heat recovery,298.6807072897719,284.7526526352409,6.0
+14,881.0,179,Mechanical supply and exhaust ventilation system with heat recovery,17.4218818261633,231.45970488081724,10.6
+15,4476.0,124,Demand-controlled mechanical supply and exhaust ventilation with heat recovery,6.932449540617699,151.1934763181412,4.0
+16,997.0,456,Mechanical exhaust ventilation,75.16479370904325,541.3831494483451,6.0
+17,3395.0,316,"Mechanical supply and exhaust ventilation, heat recovery",140.70692077527684,313.16111929307806,12.9
+18,3917.0,364,Mechanical supply and exhaust ventilation,121.00664128941833,386.93617564462596,6.0
+19,6586.0,273,Mechanical supply and exhaust ventilation with heat recovery/gravity ventilation,15.254407376671278,266.9078348010932,6.1
+20,4018.0,222,Mechanical supply and exhaust ventilation with heat recovery,83.0639409582999,186.65331010452962,6.0
+21,3495.0,328,Mechanical supply and exhaust ventilation,265.64416755304484,342.6964234620887,5.9
+22,3800.0,122,Mechanical ventilation system with efficient heat recovery solutions,8.436441035933557,67.79815789473685,4.0
+23,3781.0,71,Mechanical supply and exhaust ventilation with heat recovery,13.844569467243696,9.627082782332716,1.2
+24,3414.0,278,Mechanical supply and exhaust ventilation with heat recovery,68.84012883277504,274.3394844756883,9.8
+25,6149.0,227,Mechanical supply and exhaust ventilation with heat recovery,186.20939096369807,192.20068303789233,4.0
+26,7427.0,201,Mechanical supply and exhaust ventilation with heat recovery,62.021333019312294,155.55675238992865,7.5
+27,6831.0,236,"Mechanical, partly with heat recovery",31.952350969107624,204.76313863270386,19.0
+28,3383.0,231,Mechanical with heat recovery,33.17214594501124,197.73632870233521,11.6
